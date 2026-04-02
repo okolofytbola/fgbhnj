@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Моя страница</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Лионель Месси</h1>
+        <h2>Величайший футболист всех времен</h2>
+    </header>
+    <main>
+        <div class="card">
+            <img src="https://i.pinimg.com/736x/49/d6/31/49d631acdafeda35ac2afb49dee2ac34.jpg" >
+            <h3>Аргентинский нападающий</h3>
+            <p>Родился 24 июня 1987 года.Щас играют в Интер Майами</p>
+            <a href=" ">Статистика на fifa</a>
+        </div>
+        <div class="card">
+            <img src="https://i.pinimg.com/736x/38/c0/2d/38c02df6b1fd2f3735cf1be0582bdce0.jpg" >
+            <h3>Сборная Аргентины</h3>
+            <p>Капитан сборной.Чемпион мира 2022,Кубок Америки 2021 и 2024</p>
+            <a href="">Сайт сборной</a>
+        </div>
+        <div class="card">
+            <img src="https://i.pinimg.com/originals/a2/2a/ec/a22aec7acca2b70570a30dcbf08b71db.jpg?nii=t" width="300" >
+            <h3>Достижения</h3>
+            <p> 8 Золотых мячей,чемпион мира 2022,4 Лиги Чемпионов </p>
+            <a href="">История в Барселоне </a>
+
+        </div>
+        <div class="info">
+            <h3>Характеристики</h3>
+            <ul>
+                <li>Дата рождения 24 июня 1987</li>
+                <li>Рост:170</li>
+                <li>Позиция:нападающий</li>
+                <li>Голов за карьеру:900+</li>
+            </ul>
+
+        </div>
+        <div class="highlight">
+            <p>Рекордмен по количеству золотых мячей(8наград)</p>
+        </div>
+    </main>
+
+    
+</body>
+</html>
